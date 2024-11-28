@@ -1,0 +1,17 @@
+{
+  "name": "tmp.JAA3lN9VUU",
+  "type": "module",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Edwin Kofler <edwin@kofler.dev> (https://edwinkofler.com/)",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "@shikijs/markdown-it": "^1.24.0",
+    "markdown-it": "^14.1.0"
+  }
+}
